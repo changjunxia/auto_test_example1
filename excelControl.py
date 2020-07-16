@@ -3,6 +3,7 @@ from xlutils import copy  #复制excel用例
 from vip_addUser import vip_add_user
 from Vip_token import vip_get_token
 import json
+
 #1、读取excel测试用例
 excelDir = r'C:\Users\xintian\desktop\松勤VIP接口测试用例-自动化-v4.0.xls'#xlsx另存为xls
 #1-1 打开excel表
